@@ -1,0 +1,18 @@
+{
+  "name": "myhwjs",
+  "version": "1.0.0",
+  "description": "Hello world Heroku",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Johan",
+  "license": "MIT",
+  "engines": {
+    "node": "7.6.0"
+  }
+}
